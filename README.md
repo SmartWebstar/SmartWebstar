@@ -11,8 +11,8 @@
   <img align=right width=362 src="https://github-readme-streak-stats.herokuapp.com/?user=SmartWebstar&theme=merko" />
   
   [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/david-chan-390683151/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-blue?style=flat&logo=appveyor)](https://davechan.netlify.app/)
-  [![Gmail](https://img.shields.io/badge/Gmail-blue?style=flat&logo=gmail&logoColor=white)](mailto:smartwebstar18@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-blue?style=flat&logo=appveyor&logoColor=white)](https://davechan.netlify.app/)
+  [![Email](https://img.shields.io/badge/Gmail-blue?style=flat&logo=gmail&logoColor=white)](mailto:smartwebstar18@gmail.com)
   [![Discord](https://img.shields.io/badge/-Discord-blue?style=flat&logo=Discord&logoColor=white)](https://discordapp.com/users/!***Chan#4420)
   [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/cryptoChan0819)
   
@@ -23,42 +23,22 @@
 <br/>
 <br/>
 
-### **_Contact Details_**
-
-<p align='center'>
-  <a href="https://www.linkedin.com/in/quinn-lee-b7881b234">
-    <img src="https://img.shields.io/badge/linkedin me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://t.me/Fury1020">
-    <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://join.skype.com/invite/F0EM2BwGpc1G">
-    <img src="https://img.shields.io/badge/skype-%231DA1F3.svg?&style=for-the-badge&logo=skype&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:letteldream@gmail.com">
-    <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>&nbsp;&nbsp;
-    <a href="https://discordapp.com/users/0xFury#0632">
-    <img src="https://img.shields.io/badge/discord me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>&nbsp;&nbsp;
-</p>
-
 ## About Me
 
-<article class="markdown-body entry-content container-lg f5" itemprop="text"><p dir="auto"><g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji> Full-Stack Blockchain developer specialized in DeFi and Solidity <g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji></p>
+<article class="markdown-body entry-content container-lg f5" itemprop="text"><p dir="auto"><g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji> Full-Stack Blockchain developer specialized in Web3 and Solidity <g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji></p>
 </article>
 
 <p align="center">
   
-- 😎 Interested in contributing expertise in web and blockchain development
+- 🤓 Interested in contributing expertise in web and blockchain development
 
-- 📚 Love reading books on personal development & financial literacy.
+- 📚 Love reading books on personal development & financial literacy
 
-- 🌱 I’m currently spare time to learn Unity, Maya. to make what? I don't know. 😆
+- 🧑‍💻 I’m currently spare time to learn cutting edge techs
 
 - 🤝 Looking forward to more partnership with talents
 
-- 🥅 2022 Goals: Contribute more to building web3 infra over the internet.
+- 🏆 2022 Goals: Contribute more to building web3 infra over the internet.
 
 </p>
 
@@ -89,13 +69,29 @@
 [![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoColor=blue)]()
 [![Typescript](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white)]()
 [![Redux](https://img.shields.io/badge/-Redux-764abc?style=for-the-badge&logo=redux&logoColor=white)]()
+[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)]()
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)]()
 [![SQL](https://img.shields.io/badge/-SQL-d2082d?style=for-the-badge&logo=mysql&logoColor=white)]()
 [![MongoDB](https://img.shields.io/badge/-MongoDB-darkgreen?style=for-the-badge&logo=mongodb&logoColor=white)]()
 [![Graphql](https://img.shields.io/badge/-Graph_QL-ff1493?style=for-the-badge&logo=graphql&logoColor=white)]()
+[![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]()
 [![Docker](https://img.shields.io/badge/-Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white)]()
 
-## Experience
+<!-- 
+https://dev.to/envoy_/150-badges-for-github-pnk
+
+https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white
+https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white
+https://img.shields.io/badge/Express.js-404D59?style=for-the-badge
+https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white
+https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
+https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D
+https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white -->
+
+<!-- ## Experience
 
 - Defi ECO protocols
 <table>
@@ -223,18 +219,18 @@
             </a>
         </td>
     </tr>
-</table>
+</table> -->
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=letteldream.letteldream" />
-<img align="right" src="https://img.shields.io/github/followers/letteldream?label=Follow&style=social" />
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=SmartWebstar.SmartWebstar" />
+<img align="right" src="https://img.shields.io/github/followers/SmartWebstar?label=Follow&style=social" />
 <h1 align="center"></h1>
-<img align="left" height="300px" src="https://activity-graph.herokuapp.com/graph?username=letteldream&theme=github&count_private=true" />
-
-## Blog 🖥
+<!-- <img align="left" height="300px" src="https://activity-graph.herokuapp.com/graph?username=letteldream&theme=github&count_private=true" />
+ -->
+<!-- ## Blog 🖥
 
 [![simpsons](https://github.com/andrejrakic/andrejrakic/blob/master/simpsons.png)](https://medium.com/@andrej.rakic/the-simpsons-know-who-satoshi-is-d90849e6414a)
 [![embark](https://github.com/andrejrakic/andrejrakic/blob/master/embark.png)](https://medium.com/@andrej.rakic/embark-is-awesome-9eee74fdfb4f)
-
+ -->
 <!--
 **letteldream/andrejrakic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
