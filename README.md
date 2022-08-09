@@ -1,16 +1,16 @@
 <h1 align= "center"><b>Welcome 👋 </b></h1>
 
 <h1 align="center">
-  𝐇𝐞𝐥𝐥𝐨, It's James!
+  𝐇ey, It's David!
   
   <br />
-  <img src="https://profile-counter.glitch.me/infiniteaengus/count.svg" />
+  <img src="https://profile-counter.glitch.me/SmartWebstar/count.svg" />
   <br />
   <div align=center>
   
-  <img align=left width=420 src="https://github-readme-stats.vercel.app/api?username=infiniteaengus&hide=prs&theme=merko&layout=compact&hide_border=true&show_icons=true" />
+  <img align=left width=420 src="https://github-readme-stats.vercel.app/api?username=SmartWebstar&hide=prs&theme=merko&layout=compact&hide_border=true&show_icons=true" />
   
-  <img align=right width=362 src="https://github-readme-streak-stats.herokuapp.com/?user=infiniteaengus&theme=merko" />
+  <img align=right width=362 src="https://github-readme-streak-stats.herokuapp.com/?user=SmartWebstar&theme=merko" />
   
   [![Telegram](https://img.shields.io/badge/-Telegram-000?style=flat&logo=Telegram&logoColor=white)](https://t.me/infiniteaengus0)
   [![Skype](https://img.shields.io/badge/-Skype-grey?style=flat&logo=Skype&logoColor=white)](live:.cid.b1620422bf2f1a5a)
