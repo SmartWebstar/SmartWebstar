@@ -12,8 +12,8 @@
   
   [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/david-chan-390683151/)
   [![Portfolio](https://img.shields.io/badge/Portfolio-blue?style=flat&logo=appveyor)](https://davechan.netlify.app/)
-  [![Skype](https://img.shields.io/badge/-Skype-blue?style=flat&logo=Skype&logoColor=white)](live:.cid.7581255bf340665e)
-  [![Discord](https://img.shields.io/badge/-Discord-blue?style=flat&logo=Discord&logoColor=white)](!***Chan#4420)
+  [![Gmail](https://img.shields.io/badge/Gmail-blue?style=flat&logo=gmail&logoColor=white)](mailto:smartwebstar18@gmail.com)
+  [![Discord](https://img.shields.io/badge/-Discord-blue?style=flat&logo=Discord&logoColor=white)](https://discordapp.com/users/!   ***Chan#4420)
   [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/cryptoChan0819)
   
   </div>
