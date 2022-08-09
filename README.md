@@ -1,5 +1,3 @@
-<h1 align= "center"><b>Welcome 👋 </b></h1>
-
 <h1 align="center">
   𝐇ey, It's David!
   
@@ -12,11 +10,12 @@
   
   <img align=right width=362 src="https://github-readme-streak-stats.herokuapp.com/?user=SmartWebstar&theme=merko" />
   
-  [![Telegram](https://img.shields.io/badge/-Telegram-000?style=flat&logo=Telegram&logoColor=white)](https://t.me/infiniteaengus0)
-  [![Skype](https://img.shields.io/badge/-Skype-grey?style=flat&logo=Skype&logoColor=white)](live:.cid.b1620422bf2f1a5a)
-  [![Discord](https://img.shields.io/badge/-Discord-grey?style=flat&logo=Discord&logoColor=white)](Infinite#8617)
-  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin/in/james-bell-468a16239/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-gray?style=flat&logo=appveyor)](https://infiniteaengus.github.io/)
+  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/david-chan-390683151/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-blue?style=flat&logo=appveyor)](https://davechan.netlify.app/)
+  [![Skype](https://img.shields.io/badge/-Skype-blue?style=flat&logo=Skype&logoColor=white)](live:.cid.7581255bf340665e)
+  [![Discord](https://img.shields.io/badge/-Discord-blue?style=flat&logo=Discord&logoColor=white)](!   ***Chan#4420)
+  [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/cryptoChan0819)
+  
   </div>
 
 </h1>
