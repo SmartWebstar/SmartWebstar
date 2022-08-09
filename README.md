@@ -1,5 +1,5 @@
 <h1 align="center">
-  𝐇ey👋, It's David!
+  𝐇ey👋  It's David!
   
   <br />
   <img src="https://profile-counter.glitch.me/SmartWebstar/count.svg" />
