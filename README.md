@@ -221,9 +221,9 @@ https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&log
     </tr>
 </table> -->
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=SmartWebstar.SmartWebstar" />
+<!-- <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=SmartWebstar.SmartWebstar" />
 <img align="right" src="https://img.shields.io/github/followers/SmartWebstar?label=Follow&style=social" />
-<h1 align="center"></h1>
+<h1 align="center"></h1> -->
 <!-- <img align="left" height="300px" src="https://activity-graph.herokuapp.com/graph?username=letteldream&theme=github&count_private=true" />
  -->
 <!-- ## Blog 🖥
