@@ -77,6 +77,15 @@
 [![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]()
 [![Docker](https://img.shields.io/badge/-Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white)]()
 
+<br/>
+⚡ Statistics
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SmartWebstar&theme=algolia" alt="David Chan" />
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SmartWebstar&theme=tokyonight">
+</p>
+⚡ Recent Github Activity
+<a href="https://github.com/SmartWebstar"><img alt="David's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SmartWebstar&custom_title=Recent%20Activity&theme=react-dark" /></a>
+
 <!-- 
 https://dev.to/envoy_/150-badges-for-github-pnk
 
