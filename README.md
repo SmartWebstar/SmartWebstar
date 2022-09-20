@@ -4,7 +4,7 @@
   <br />
   <img src="https://profile-counter.glitch.me/SmartWebstar/count.svg" />
   <br />
-  ⚡ Statistics
+  <p align="left">  ⚡ Statistics </p>
   <div align=center>
   
   <img align=left width=420 src="https://github-readme-stats.vercel.app/api?username=SmartWebstar&hide=prs&theme=merko&layout=compact&hide_border=true&show_icons=true" />
@@ -82,9 +82,9 @@
 
 ⚡ Recent Github Activity
 <div align="center">
-  
-  <a href="https://github.com/SmartWebstar" align="left" ><img alt="David's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SmartWebstar&custom_title=Recent%20Activity&theme=react-dark" /></a>
   <img align="right" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SmartWebstar&theme=tokyonight">
+  <a href="https://github.com/SmartWebstar" ><img alt="David's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SmartWebstar&custom_title=Recent%20Activity&theme=react-dark" /></a>
+ 
 </div>
 
 
