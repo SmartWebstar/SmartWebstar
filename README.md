@@ -4,11 +4,12 @@
   <br />
   <img src="https://profile-counter.glitch.me/SmartWebstar/count.svg" />
   <br />
+  ⚡ Statistics
   <div align=center>
   
   <img align=left width=420 src="https://github-readme-stats.vercel.app/api?username=SmartWebstar&hide=prs&theme=merko&layout=compact&hide_border=true&show_icons=true" />
   
-  <img align=right width=362 src="https://github-readme-streak-stats.herokuapp.com/?user=SmartWebstar&theme=merko" />
+  <img align=right width=362 src="https://github-readme-streak-stats.herokuapp.com/?user=SmartWebstar&theme=merko" alt="David Chan" />
   
   [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/david-chan-390683151/)
   [![Portfolio](https://img.shields.io/badge/Portfolio-blue?style=flat&logo=appveyor&logoColor=white)](https://davechan.netlify.app/)
@@ -78,13 +79,14 @@
 [![Docker](https://img.shields.io/badge/-Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white)]()
 
 <br/>
-⚡ Statistics
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SmartWebstar&theme=algolia" alt="David Chan" />
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SmartWebstar&theme=tokyonight">
-</p>
+
 ⚡ Recent Github Activity
-<a href="https://github.com/SmartWebstar"><img alt="David's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SmartWebstar&custom_title=Recent%20Activity&theme=react-dark" /></a>
+<div align="center">
+  
+  <a href="https://github.com/SmartWebstar" align="left" ><img alt="David's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SmartWebstar&custom_title=Recent%20Activity&theme=react-dark" /></a>
+  <img align="right" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SmartWebstar&theme=tokyonight">
+</div>
+
 
 <!-- 
 https://dev.to/envoy_/150-badges-for-github-pnk
