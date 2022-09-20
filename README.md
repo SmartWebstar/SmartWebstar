@@ -1,9 +1,9 @@
 <h1 align="center">
   𝐇ey👋  It's David!
-</h1>
   <br />
   <img src="https://profile-counter.glitch.me/SmartWebstar/count.svg" />
   <br />
+</h1>
   <p align="left">  ⚡ Statistics </p>
   <div align=center>
   
@@ -42,11 +42,11 @@
 - 🏆 2022 Goals: Contribute more to building web3 infra over the internet.
 
 </p>
- <img align="right" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SmartWebstar&theme=tokyonight">
 
 ## Skills
 
-<table>
+<div>
+<table align="left">
   <tr>
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" width="200"></td>
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_defi.png?raw=true" width="200"></td>
@@ -62,6 +62,8 @@
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/vue-282497.png" width="200"></td>
   </tr>  
 </table>
+ <img align="right" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SmartWebstar&theme=tokyonight">
+</div>
 
 ## Tech stack
 
