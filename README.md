@@ -10,7 +10,7 @@
   <img align=left width=420 src="https://github-readme-stats.vercel.app/api?username=SmartWebstar&hide=prs&theme=merko&layout=compact&hide_border=true&show_icons=true" />
   
   <img align=right width=362 src="https://github-readme-streak-stats.herokuapp.com/?user=SmartWebstar&theme=merko" alt="David Chan" />
-  
+  <br/>
   [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/david-chan-390683151/)
   [![Portfolio](https://img.shields.io/badge/Portfolio-blue?style=flat&logo=appveyor&logoColor=white)](https://davechan.netlify.app/)
   [![Email](https://img.shields.io/badge/Gmail-blue?style=flat&logo=gmail&logoColor=white)](mailto:smartwebstar18@gmail.com)
@@ -61,6 +61,7 @@
 </table>
  <img align="right" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SmartWebstar&theme=tokyonight">
 </div>
+<br/>
 <br/>
 
 ## Tech stack
