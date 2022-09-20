@@ -1,6 +1,6 @@
 <h1 align="center">
   𝐇ey👋  It's David!
-  
+</h1>
   <br />
   <img src="https://profile-counter.glitch.me/SmartWebstar/count.svg" />
   <br />
@@ -19,7 +19,7 @@
   
   </div>
 
-</h1>
+
 
 <br/>
 <br/>
@@ -42,6 +42,7 @@
 - 🏆 2022 Goals: Contribute more to building web3 infra over the internet.
 
 </p>
+ <img align="right" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SmartWebstar&theme=tokyonight">
 
 ## Skills
 
@@ -82,7 +83,7 @@
 
 ⚡ Recent Github Activity
 <div align="center">
-  <img align="right" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SmartWebstar&theme=tokyonight">
+ 
   <a href="https://github.com/SmartWebstar" ><img alt="David's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SmartWebstar&custom_title=Recent%20Activity&theme=react-dark" /></a>
  
 </div>
