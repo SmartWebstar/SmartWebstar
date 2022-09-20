@@ -18,8 +18,7 @@
   [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/cryptoChan0819)
   
   </div>
-<br/>
-<br/>
+
 
 ## About Me
 
@@ -39,8 +38,7 @@
 - 🏆 2022 Goals: Contribute more to building web3 infra over the internet.
 
 </p>
-<br/>
-<br/>
+
 ## Skills
 
 <div>
@@ -62,8 +60,7 @@
 </table>
  <img align="right" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SmartWebstar&theme=tokyonight">
 </div>
-<br/>
-<br/>
+
 ## Tech stack
 
 [![Blockchain](https://img.shields.io/badge/-Blockchain-black?style=for-the-badge&logo=bitcoin&logoColor=white)]()
