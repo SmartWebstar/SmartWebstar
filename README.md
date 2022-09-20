@@ -38,6 +38,7 @@
 - 🏆 2022 Goals: Contribute more to building web3 infra over the internet.
 
 </p>
+<br/>
 
 ## Skills
 
@@ -60,6 +61,7 @@
 </table>
  <img align="right" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SmartWebstar&theme=tokyonight">
 </div>
+<br/>
 
 ## Tech stack
 
