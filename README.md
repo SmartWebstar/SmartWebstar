@@ -7,11 +7,11 @@
   <p align="left">  ⚡ Statistics </p>
   <div align=center>
   
-  <img align=left width=420 src="https://github-readme-stats.vercel.app/api?username=SmartWebstar&hide=prs&theme=merko&layout=compact&hide_border=true&show_icons=true&count_private=true" />
+  <img align=left width=420 src="https://github-readme-stats.vercel.app/api?username=SmartWebstar&theme=merko&layout=compact&hide_border=true&show_icons=true&count_private=true" />
   <!--
    <img
       height="150"
-      src="https://github-readme-stats.vercel.app/api?username=akachi1409&count_private=true&show_icons=true&custom_title=Akachi's%20Github%20Status&hide=issues&theme=vision-friendly-dark"
+      src="https://github-readme-stats.vercel.app/api?username=akachi1409&count_private=true&hide=prs&show_icons=true&custom_title=Akachi's%20Github%20Status&hide=issues&theme=vision-friendly-dark"
     /> -->
   
   <img align=right width=362 src="https://github-readme-streak-stats.herokuapp.com/?user=SmartWebstar&theme=merko" alt="David Chan" />
