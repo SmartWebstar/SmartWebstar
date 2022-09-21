@@ -7,7 +7,12 @@
   <p align="left">  ⚡ Statistics </p>
   <div align=center>
   
-  <img align=left width=420 src="https://github-readme-stats.vercel.app/api?username=SmartWebstar&hide=prs&theme=merko&layout=compact&hide_border=true&show_icons=true" />
+  <img align=left width=420 src="https://github-readme-stats.vercel.app/api?username=SmartWebstar&hide=prs&theme=merko&layout=compact&hide_border=true&show_icons=true&count_private=true" />
+  <!--
+   <img
+      height="150"
+      src="https://github-readme-stats.vercel.app/api?username=akachi1409&count_private=true&show_icons=true&custom_title=Akachi's%20Github%20Status&hide=issues&theme=vision-friendly-dark"
+    /> -->
   
   <img align=right width=362 src="https://github-readme-streak-stats.herokuapp.com/?user=SmartWebstar&theme=merko" alt="David Chan" />
  
@@ -59,8 +64,12 @@
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/vue-282497.png" width="200"></td>
   </tr>  
 </table>
- <img align="right" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SmartWebstar&theme=tokyonight">
+ <!-- <img align="right" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SmartWebstar&theme=tokyonight"> -->
+ <img
+      height="150" align="right"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmartWebstar&layout=compact&theme=vision-friendly-dark" />
 </div>
+   
 <br/>
 <br/>
 
